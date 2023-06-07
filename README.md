@@ -2,7 +2,7 @@
 
 ## Deployed URL 
 
-[Render App Link](https://server-deployment-practice-hva8.onrender.com))
+[Render App Link](https://server-deployment-practice-hva8.onrender.com)
 
 [Pull&Merge Link](https://github.com/AlaEmadIbrahim/server-deployment-practice/pull/2)
 
